@@ -1,0 +1,1385 @@
+Overriding: out_dir = out-rev-shakespeare
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+
+
+. you to down'sLet
+? sir, soAnd
+--, house'ors hall' o soldiers the all with'd joinThey
+! sir, Capitol the to you sentWho
+:ETHABIZ ELENUEQ
+
+. home thee brought have will malice of haveI
+, power own mine to, man holy, mineTo
+ thee'd possess I that itest se thou that,Therefore
+: you to me pardon and, me pardonTo
+ thee'd possess have I, too, heretis ',O
+:USANOLICOR
+
+. wife thy to forth, thisFrom
+:ETHABIZ ELENUEQ
+
+?house-Mur
+:USIENMEN
+
+.am mad,om bos thy to meearH
+; man my of part the in meieH
+, am I as, thou hast what, thee see'll I,O
+. me withot w nor, no, me withest lov thouO
+, pity no is there; love of end the'sleMur
+:USANOLICOR
+
+. thee with for, love of end the, I amBut
+:ANOLICOR
+
+. time the be to or, me with have notWill
+,am mad very, means what for, means whatFor
+; me pardon,am mad, but;am mad,am mad,amMad
+:USANOLICOR
+
+! tongueous slander with allAnd
+, thee to more no speakaltb Ty for,essCour
+:AELLABIS
+
+?am mad, ay:AELLABIS
+
+. now her with go,am mad good,But
+.'t in me catch to means what but; meearH
+,am mad, me tell: him trust not they, meearH
+:USANOLICOR
+
+? enough meearH
+:AELLABIS
+
+. me in youest det thouAs
+, fool a art then,heerit P. iter' e timeThe
+, it of time the's one and;th over itestL
+, thee to time that of time thetis ',Why
+:USANOLICOR
+
+. him to you deliver to sheAnd
+, means her by and; it in am I meansMy
+; me to is,am mad, meansThat
+:
+---------------
+:
+That means, madam, is to me;
+My means I am in it; and by her means,
+And she to deliver you to him.
+
+CORIOLANUS:
+Why, 'tis the time of that time to thee,
+Lest it overth; and one's the time of it,
+The time e'er it. Prithee, then art a fool,
+As thou detest you in me.
+
+ISABELLA:
+Hear me enough?
+
+CORIOLANUS:
+Hear me, they not trust him: tell me, madam,
+Hear me; but what means to catch me in't.
+But, good madam, go with her now.
+
+ISABELLA: ay, madam?
+
+ISABELLA:
+Couress, for Tybalt speak no more to thee,
+And all with slanderous tongue!
+
+CORIOLANUS:
+Madam, madam, madam; but, madam, pardon me;
+For what means, for what means, very madam,
+Will not have with me, or to be the time.
+
+CORIOLAN:
+But am I, the end of love, for with thee.
+
+CORIOLANUS:
+Murle's the end of love; there is no pity,
+O thou lovest with me, no, nor wot with me.
+O, I'll see thee, what hast thou, as I am,
+Hie me in the part of my man;
+Hear me to thy bosom, madam.
+
+MENENIUS:
+Mur-house?
+
+QUEEN ELIZABETH:
+From this, forth to thy wife.
+
+CORIOLANUS:
+O, 'tis here, too, I have possess'd thee
+To pardon me, and pardon me to you:
+Therefore, that thou seest it that I possess'd thee
+To mine, holy man, to mine own power,
+I have of malice will have brought thee home.
+
+QUEEN ELIZABETH:
+Who sent you to the Capitol, sir!
+They join'd with all the soldiers o' hallors' house,--
+And so, sir?
+Let's down to you.
+
+
+---------------
+---------------
+
+:ORDIFFCL
+
+. me withwayA
+, you unto to gone be may it if, Warwick, thusIf
+? me by depart to intent her madeWho
+, me with pass so or, me before not standBut
+; field the for London promised sheWhen
+ her to leave give to,ford Here Lady, thenAnd
+:ownCl
+
+. stay may queen the that for, Norfolk and,Now
+:CHUDRAB
+
+. queen our to say must she, mind your inAnd
+:ORDIFFCL
+
+. me hear to come she if, Warwick, soAnd
+:USONIGANT
+
+. words certain and heads clear give though,Ay
+:ORDIFFCL
+
+. it understand you, Warwick, thenAnd
+. fight to time the have to matter the isWhat
+:USONIGANT
+
+. haste make and haste give, lords, youAnd
+:USONIGANT
+
+. so not it be it unless, Warwick,Then
+:ORDIFFCL
+
+. so it be, lords, you tell I, Warwick,Now
+:USONIGANT
+
+. say to itself causeethat CommWhen
+, then and; war of talk the in it answerAs
+:ORDIFFCL
+
+. so it be as, friends his do to madeAnd
+, him with rest the you lend, Warwick, soAnd
+:USONIGANT
+
+. so it be so and, friends his doTo
+:ordsL
+
+. lord my, not meestblouTh
+:ORDIFFCL
+
+. so it be thus; Warwick, Warwick,No
+:ORDIFFCL
+
+? so it beoth d what not youThink
+:USONIGANT
+
+. friends the and masters the and lords theHave
+,ordsL
+:ORDIFFCL
+
+. war the to you lend to much so doTo
+, Warwick Lord, you give: lord my, soAnd
+:ORDIFFCL
+
+. so it be'll we thenAnd
+:USONIGANT
+
+. to you lend will Iona Ver, lords,Now
+:ORDIFFCL
+
+. lord my good, notst dur, WarwickLord
+:ORDIFFCL
+
+. again at comes fortune next: hasteMake
+, peace and state in, time this through comeAnd
+---------------
+And come through this time, in state and peace,
+Make haste: next fortune comes at again.
+
+CLIFFORD:
+Lord Warwick, durst not, good my lord.
+
+CLIFFORD:
+Now, lords, Verona I will lend you to.
+
+ANTIGONUS:
+And then we'll be it so.
+
+CLIFFORD:
+And so, my lord: give you, Lord Warwick,
+To do so much to lend you to the war.
+
+CLIFFORD:
+Lords,
+Have the lords and the masters and the friends.
+
+ANTIGONUS:
+Think you not what doth be it so?
+
+CLIFFORD:
+No, Warwick, Warwick; thus be it so.
+
+CLIFFORD:
+Thoublest me not, my lord.
+
+Lords:
+To do his friends, and so be it so.
+
+ANTIGONUS:
+And so, Warwick, lend you the rest with him,
+And made to do his friends, as be it so.
+
+CLIFFORD:
+As answer it in the talk of war; and then,
+When Commateth cause itself to say.
+
+ANTIGONUS:
+Now, Warwick, I tell you, lords, be it so.
+
+CLIFFORD:
+Then, Warwick, unless it be it not so.
+
+ANTIGONUS:
+And you, lords, give haste and make haste.
+
+ANTIGONUS:
+What is the matter to have the time to fight.
+And then, Warwick, you understand it.
+
+CLIFFORD:
+Ay, though give clear heads and certain words.
+
+ANTIGONUS:
+And so, Warwick, if she come to hear me.
+
+CLIFFORD:
+And in your mind, she must say to our queen.
+
+BRADUCH:
+Now, and Norfolk, for that the queen may stay.
+
+Clown:
+And then, Lady Hereford, to give leave to her
+When she promised London for the field;
+But stand not before me, or so pass with me,
+Who made her intent to depart by me?
+If thus, Warwick, if it may be gone to unto you,
+Away with me.
+
+CLIFFORD:
+
+---------------
+---------------
+
+
+. looks with it, mind your have to heart your show no will you'll I; you for won be you if,Well
+:IOENTINC VKEUD
+
+. day the for's that; you thank I, maid sweet,ayN
+:IOUCL
+
+. Isabel, O; night good,Well
+:IOENTINC VKEUD
+
+! night good, O;Well
+:IOUCL
+
+. midnight this beat you while, bed this beat you while, bed this beat you while,ioL
+:IOENTINC VKEUD
+
+.io Luc dear, hour this beat you while, bed this beat you while,ioL
+. bed this beat you! night good, meore grat, bed! night, meore grat, bed! night, meore grat, bed! night, night, amen, amen, amen, amen, amen, amen, amen! night, night, night, night, night, night, night, night, night, night! night, night, night, night! night, night, night! night, night, night! night, night! night, night! night, night! night, night! night, night, night! night, night! night, night! night! night, night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night? sleep, sleep, me O? night,O
+:IOENTINC VKEUD
+
+. sir, more no will I; sir, more no willI
+:IOUCL
+
+. will I, more no; sir, more no willI
+:IOENTINC VKEUD
+
+. more no, you pray I: more no is it; sir, more no isIt
+:IOUCL
+
+. more no be, me pray: sir, less no meme
+ help may you, sir, since so be it; sir, sir, lessNo
+:IOENTINC VKEUD
+
+. more no you tell'llI
+:IOUCL
+
+. sir, more no me toIs
+:IO
+---------------
+IO:
+Is to me no more, sir.
+
+LUCIO:
+I'll tell you no more.
+
+DUKE VINCENTIO:
+No less, sir, sir; it be so since, sir, you may help
+me me no less, sir: pray me, be no more.
+
+LUCIO:
+It is no more, sir; it is no more: I pray you, no more.
+
+DUKE VINCENTIO:
+I will no more, sir; no more, I will.
+
+LUCIO:
+I will no more, sir; I will no more, sir.
+
+DUKE VINCENTIO:
+O, night? O me, sleep, sleep? night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night! night, night! night! night, night! night, night! night, night, night! night, night! night, night! night, night! night, night! night, night, night! night, night, night! night, night, night, night! night, night, night, night, night, night, night, night, night, night! amen, amen, amen, amen, amen, amen, amen, night, night! bed, gratore me, night! bed, gratore me, night! bed, gratore me, good night! you beat this bed.
+Lio, while you beat this bed, while you beat this hour, dear Lucio.
+
+DUKE VINCENTIO:
+Lio, while you beat this bed, while you beat this bed, while you beat this midnight.
+
+LUCIO:
+Well; O, good night!
+
+DUKE VINCENTIO:
+Well, good night; O, Isabel.
+
+LUCIO:
+Nay, sweet maid, I thank you; that's for the day.
+
+DUKE VINCENTIO:
+Well, if you be won for you; I'll you will no show your heart to have your mind, it with looks.
+
+
+---------------
+---------------
+
+
+.th at live longer no hadI
+ say will you, sir, willI
+:IOENTINC VKEUD
+
+. die mustWe
+ all you, may we as things these allWith
+, fools common ye,ioens Hort, you toesip TarAs
+, foolsbidden be will it, gentlemen,Besides
+:IOUCL
+
+. good you do'llI
+, man damned the makeTo
+, friend my,audio Cl,'es Jes, friend goodYour
+,ost prov,ioens Hort, you,ista Bapt,Now
+:IOUCL
+
+. life my for himestakSpe
+, death my save to, death to life,Death
+:IOENTINC VKEUD
+
+. lives man dead this saveTo
+, death's soul poor my save to, life's soulMy
+:ostProv
+
+. good too haveI
+:IOUCL
+
+?io Luc, you prayI
+:IOENTINC VKEUD
+
+. you thankI
+:IOUCL
+
+. do toire s is heAs
+; live may he so and, die must heBut
+:IOENTINC VKEUD
+
+. indeed good yourself doTo
+, sir, you Prepare. lord good my,Well
+:IOUCL
+
+. good your doTo
+:IOENTINC VKEUD
+
+. him of helpThe
+ meet to needNo
+ he was though, that in him of needThe
+:IOUCL
+
+. brother a haveTo
+, me to thing a need he though, meTo
+,ioens Hort, me tell you shall,io LucO
+:IOENTINC VKEUD
+
+. purpose good ownHis
+ him for hath that,io Luc, purposeGood
+. undertake must he that, him to himself pleaseSo
+, do must I, me with heart hisopen
+, face his to me shut he when, meieveBel
+:IOUCL
+
+?io Luc, your intend IDo
+:IOENTINC VKEUD
+
+. die must heThat
+; there him loves I, sir, lord my, honourYour
+:IOUCL
+
+. is it as good as it thinkI
+:ost prov, you prayI
+:IOENTINC VKEUD
+
+
+---------------
+
+
+DUKE VINCENTIO:
+I pray you, provost:
+I think it as good as it is.
+
+LUCIO:
+Your honour, my lord, sir, I loves him there;
+That he must die.
+
+DUKE VINCENTIO:
+Do I intend your, Lucio?
+
+LUCIO:
+Believe me, when he shut me to his face,
+open his heart with me, I must do,
+So please himself to him, that he must undertake.
+Good purpose, Lucio, that hath for him
+His own good purpose.
+
+DUKE VINCENTIO:
+O Lucio, shall you tell me, Hortensio,
+To me, though he need a thing to me,
+To have a brother.
+
+LUCIO:
+The need of him in that, though was he
+No need to meet
+The help of him.
+
+DUKE VINCENTIO:
+To do your good.
+
+LUCIO:
+Well, my good lord. Prepare you, sir,
+To do yourself good indeed.
+
+DUKE VINCENTIO:
+But he must die, and so he may live;
+As he is sire to do.
+
+LUCIO:
+I thank you.
+
+DUKE VINCENTIO:
+I pray you, Lucio?
+
+LUCIO:
+I have too good.
+
+Provost:
+My soul's life, to save my poor soul's death,
+To save this dead man lives.
+
+DUKE VINCENTIO:
+Death, life to death, to save my death,
+Speakest him for my life.
+
+LUCIO:
+Now, Baptista, you, Hortensio, provost,
+Your good friend, Jeses,' Claudio, my friend,
+To make the damned man,
+I'll do you good.
+
+LUCIO:
+Besides, gentlemen, it will bebidden fools,
+As Taripes to you, Hortensio, ye common fools,
+With all these things as we may, you all
+We must die.
+
+DUKE VINCENTIO:
+I will, sir, you will say
+I had no longer live atth.
+
+
+---------------
+---------------
+
+
+, hand that for, of out seen hath he how, Paul by,What
+:IOUTCMER
+
+? messenger's What. day next last the is this,No
+:IOVOLENB
+
+? then, me with gone are you and, OusutT
+:IOUTCMER
+
+. here are ye. have you what,Well
+:IOUTCMER
+
+. well you Fare. with'd answer be will;man kins own mineastw 'As
+:IOVOLENB
+
+. well you Fare.atter fl the of out seen hathaudio Cl when,No
+:IOUTCMER
+
+. you to come I but;'s that, well you Fare. more no have'll I,No
+:IOVOLENB
+
+.illo Cam, this of you with gone areYou
+:IOUTCMER
+
+. you with gone are, sir, now how,Well
+:IOVOLENB
+
+. well you Fare.atter fl the of out seen hath heAs
+:IOUTCMER
+
+. here you gather will he therefore,Come
+:IOVOLENB
+
+. myself order to,illo Cam, here'sHe
+:IOUTCMER
+
+?ilia Sic of mind a,Sir
+:IOUTCMER
+
+?audio Cl to, you from gone is, sir,Now
+:IOVOLENB
+
+. him with gone are me of any any isThere
+:IOUTCMER
+
+. again meet you must I. me by you come tocome
+ to time this of one or other, yourayP
+:IOUTCMER
+
+. you believe; so be shall it? you with gone youare
+ I. him of known not hath he: not I doubt,O
+:IOUTCMER
+
+? then, you methe--
+, it of known not, it of known not is he,O
+:IOVOLENB
+
+. here'sWhat
+:IOUTCMER
+
+. master my, sure am I; sir, you prayI
+:IOVOLENB
+
+. up put not'llI
+:OMIGRE
+
+.io Paulior Signior Signior SigniorSign
+!io Paulior SigniorSign
+:IOUTCMER
+
+. sir, keep good willHe
+---------------
+He will good keep, sir.
+
+MERCUTIO:
+Signior Signior Paulio!
+Signior Signior Signior Signior Paulio.
+
+GREMIO:
+I'll not put up.
+
+BENVOLIO:
+I pray you, sir; I am sure, my master.
+
+MERCUTIO:
+What's here.
+
+BENVOLIO:
+O, he is not known of it, not known of it,
+--he met you, then?
+
+MERCUTIO:
+O, doubt I not: he hath not known of him. I
+are you gone with you? it shall be so; believe you.
+
+MERCUTIO:
+Pray you, other or one of this time to
+come to come you by me. I must you meet again.
+
+MERCUTIO:
+There is any any of me are gone with him.
+
+BENVOLIO:
+Now, sir, is gone from you, to Claudio?
+
+MERCUTIO:
+Sir, a mind of Sicilia?
+
+MERCUTIO:
+He's here, Camillo, to order myself.
+
+BENVOLIO:
+Come, therefore he will gather you here.
+
+MERCUTIO:
+As he hath seen out of the flatter. Fare you well.
+
+BENVOLIO:
+Well, how now, sir, are gone with you.
+
+MERCUTIO:
+You are gone with you of this, Camillo.
+
+BENVOLIO:
+No, I'll have no more. Fare you well, that's; but I come to you.
+
+MERCUTIO:
+No, when Claudio hath seen out of the flatter. Fare you well.
+
+BENVOLIO:
+As 'twas mine own kinsman; will be answer'd with. Fare you well.
+
+MERCUTIO:
+Well, what you have. ye are here.
+
+MERCUTIO:
+Tutus O, and you are gone with me, then?
+
+BENVOLIO:
+No, this is the last next day. What's messenger?
+
+MERCUTIO:
+What, by Paul, how he hath seen out of, for that hand,
+
+
+---------------
+---------------
+
+
+: you for me pardon,eaY
+:IOENTINC VKEUD
+
+. away come me let, gentlemenentleG
+; sir, will you; come,Come
+:TULECAP
+
+. it of speech the' o contents the beMay
+, know I, before come; is it, me pardon,But
+:IOENTINC VKEUD
+
+. do you thing a do I cannotorTh
+, you for's What. go not will you, said well well,O
+:TULECAP
+
+. gone be shall youWhether
+, gone is I, all you for: so itBe
+:IOENTINC VKEUD
+
+. you of talk the of talk the beMay
+, away taken be will I; I pray you,Ah
+:TULECAP
+
+. gone be may itThat
+, gone be may you but;'t is what,Ah
+:IOENTINC VKEUD
+
+. you to sent be must I, youayN
+:TULECAP
+
+. them for been haveI
+, you pardon'll I, sir, you to sentBe
+:IOENTINC VKEUD
+
+. not me keep, sir, will youBut
+:TULE CAPYADL
+
+. out it blowsark m a; it upon them visitTo
+, way this upon look, boys, you please soIf
+. been hath that time the Therefore. gone is timeThe
+:IOENTINC VKEUD
+
+. man, me not am IBut
+:TULE CAPYADL
+
+. hither come are you for, needsThat
+:IOENTINC VKEUD
+
+. haste, haste, haste, go: there on are theyWhere
+ and, them to come's Let. haste haste, hasteO
+:TAISTAPB
+
+. come is he when, hastouTh
+:OELANG
+
+. you to cometis ', youardonP
+:IOENTINC VKEUD
+
+. him upon come, sir, youieH
+:TAISTAPB
+
+.t's speak thou here and, well done hastouTh
+:OELANG
+
+.t's speak thou what, sir,Go
+:IOENTINC VKEUD
+
+. comes he
+---------------
+ he comes.
+
+DUKE VINCENTIO:
+Go, sir, what thou speak'st.
+
+ANGELO:
+Thou hast done well, and here thou speak'st.
+
+BAPTISTA:
+Hie you, sir, come upon him.
+
+DUKE VINCENTIO:
+Pardon you, 'tis come to you.
+
+ANGELO:
+Thou hast, when he is come.
+
+BAPTISTA:
+O haste, haste haste. Let's come to them, and
+Where they are on there: go, haste, haste, haste.
+
+DUKE VINCENTIO:
+That needs, for you are come hither.
+
+LADY CAPULET:
+But I am not me, man.
+
+DUKE VINCENTIO:
+The time is gone. Therefore the time that hath been.
+If so please you, boys, look upon this way,
+To visit them upon it; a mark blows it out.
+
+LADY CAPULET:
+But you will, sir, keep me not.
+
+DUKE VINCENTIO:
+Be sent to you, sir, I'll pardon you,
+I have been for them.
+
+CAPULET:
+Nay you, I must be sent to you.
+
+DUKE VINCENTIO:
+Ah, what is't; but you may be gone,
+That it may be gone.
+
+CAPULET:
+Ah, you pray I; I will be taken away,
+May be the talk of the talk of you.
+
+DUKE VINCENTIO:
+Be it so: for you all, I is gone,
+Whether you shall be gone.
+
+CAPULET:
+O, well well said, you will not go. What's for you,
+Thor cannot I do a thing you do.
+
+DUKE VINCENTIO:
+But, pardon me, it is; come before, I know,
+May be the contents o' the speech of it.
+
+CAPULET:
+Come, come; you will, sir;
+Gentle gentlemen, let me come away.
+
+DUKE VINCENTIO:
+Yea, pardon me for you:
+
+
+---------------
+---------------
+
+
+:INGSASTH
+
+. me with come yet dare not,O
+:MUMBA
+
+. me with come to Come! ho! wife, me withGo
+:MENLECOUGL
+
+. chamber a to come must I, come meLet
+: lady gracious most my, sir,Come
+: IIARDICH RKING
+
+. chamber your to came I, lord my,But
+: so it be,on an be to comeAnd
+:HAMINGUCKB
+
+. hither come to come I,morrow- toCome
+: IIARDICH RKING
+
+. him with come time good of measure theAt
+ them show men of number the and, thereLive
+ him deliver,am mad, and, friends your of thousandsThe
+ dispatch,O
+: youchee bes I, O! sir, I too amuke dThe
+:HAMINGUCKB
+
+. death to you meet to not it beBut
+, it ofters lod the met have I, lordMy
+: IIARDICH RKING
+
+. you to come shall I and; come, pray,lySoft
+:HAMINGUCKB
+
+. it ofters lod the be to not it beBut
+, it ofters lod the be to you meet to willI
+: sir, you pray I, you prayI
+: IIARDICH RKING
+
+. meet to will you and,'t to time no isThere
+:HAMINGUCKB
+
+. day this of computation the with me makeAnd
+, here go to come shall I, sir, you prayI
+: IIARDICH RKING
+
+? it ofters lod the you greet to shall theyAnd
+, here go to are men these for, lordMy
+:HAMINGUCKB
+
+. enough well you wish I and, so be itIf
+: IIARDICH RKING
+
+! well me meet to come and go,am mad,rahSir
+:HAMINGUCKB
+
+. purpose our to us with go,amMad
+: IIARDICH RKING
+
+. haste make, lord my, no;daw b they areHere
+:HAMINGUCKB
+
+. do you what please to you wish I hereAnd
+; me with go:yates L prince the not areThey
+: IIARDICH RKING
+
+. lord noble
+---------------
+ noble lord.
+
+KING RICHARD II:
+They are not the prince Latesy: go with me;
+And here I wish you to please what you do.
+
+BUCKINGHAM:
+Here are they bawd; no, my lord, make haste.
+
+KING RICHARD II:
+Madam, go with us to our purpose.
+
+BUCKINGHAM:
+Sirrah, madam, go and come to meet me well!
+
+KING RICHARD II:
+If it be so, and I wish you well enough.
+
+BUCKINGHAM:
+My lord, for these men are to go here,
+And they shall to greet you the lodters of it?
+
+KING RICHARD II:
+I pray you, sir, I shall come to go here,
+And make me with the computation of this day.
+
+BUCKINGHAM:
+There is no time to't, and you will to meet.
+
+KING RICHARD II:
+I pray you, I pray you, sir:
+I will to meet you to be the lodters of it,
+But be it not to be the lodters of it.
+
+BUCKINGHAM:
+Softly, pray, come; and I shall come to you.
+
+KING RICHARD II:
+My lord, I have met the lodters of it,
+But be it not to meet you to death.
+
+BUCKINGHAM:
+The duke am too I, sir! O, I beseech you:
+O, dispatch
+The thousands of your friends, and, madam, deliver him
+Live there, and the number of men show them
+At the measure of good time come with him.
+
+KING RICHARD II:
+Come to-morrow, I come to come hither.
+
+BUCKINGHAM:
+And come to be anon, be it so:
+But, my lord, I came to your chamber.
+
+KING RICHARD II:
+Come, sir, my most gracious lady:
+Let me come, I must come to a chamber.
+
+GLOUCLEMEN:
+Go with me, wife! ho! Come to come with me.
+
+BAUMM:
+O, not dare yet come with me.
+
+HASTINGS:
+
+
+---------------
+---------------
+
+SINICS
+
+! you of all, Lord good, thee of what,Sir
+:IOENTINC VKEUD
+
+. him on go,No
+:IOUCL
+
+. him of thing atis ', sir,What
+:IOENTINC VKEUD
+
+. house the take, fellow foolish a toEven
+, this done hath he what tell'llI
+:IOUCL
+
+. you of speak cannotI
+, another with word a comeHere
+, thee tell I, come here; sir,Come
+:IOENTINC VKEUD
+
+. me trust nor, not trust, sir, not trust,O
+:IOUCL
+
+. soIt
+:IOENTINC VKEUD
+
+. me trust cannot heUnless
+, sir, him to nor, him to nor, you not trust,O
+:IOUCL
+
+. lord my,Ay
+:IOENTINC VKEUD
+
+. you of speak? that's how, lord my,No
+:IOUCL
+
+. him of what say?io Luc, lord my, O,Why
+:IOENTINC VKEUD
+
+. sir, you to come, sir, me tocome
+: home welcome our to you deliver'llWe
+, home welcome my to you bringI
+, so say I,io Luc, homeyves ProAnd
+. well it know and, well speak, sir, youchee bes doI
+: so do I shall, is it so and: sir, not knowYou
+:IOUCL
+
+. sir, know I, home go, sir, come: hence yourayP
+: home take, go! come, home take, Come. again go, come,Come
+:IOENTINC VKEUD
+
+. sir, me of seen be not will you, Come. again homeGo
+: home take, Go. again go, Go. in here be shouldIf
+:IOENTINC VKEUD
+
+. again gone have you, maid, nowGo
+: home welcome your to you deliver and, Come. again Go. again Go. again Go. again Go. again Go. again Go. again Go. again Go. thenGo
+:IOUCL
+
+. againGo
+: come,Come
+:
+---------------
+:
+Come, come:
+Go again.
+
+LUCIO:
+Go then. Go again. Go again. Go again. Go again. Go again. Go again. Go again. Go again. Come, and deliver you to your welcome home:
+Go now, maid, you have gone again.
+
+DUKE VINCENTIO:
+If should be here in. Go, go again. Go, take home:
+Go home again. Come, you will not be seen of me, sir.
+
+DUKE VINCENTIO:
+Come, come, go again. Come, take home, come! go, take home:
+Pray you hence: come, sir, go home, I know, sir.
+
+LUCIO:
+You know not, sir: and so it is, shall I do so:
+I do beseech you, sir, speak well, and know it well.
+And Provesy home, Lucio, I say so,
+I bring you to my welcome home,
+We'll deliver you to our welcome home:
+come to me, sir, come to you, sir.
+
+DUKE VINCENTIO:
+Why, O, my lord, Lucio? say what of him.
+
+LUCIO:
+No, my lord, how's that? speak of you.
+
+DUKE VINCENTIO:
+Ay, my lord.
+
+LUCIO:
+O, trust not you, nor to him, nor to him, sir,
+Unless he cannot trust me.
+
+DUKE VINCENTIO:
+It so.
+
+LUCIO:
+O, trust not, sir, trust not, nor trust me.
+
+DUKE VINCENTIO:
+Come, sir; here come, I tell thee,
+Here come a word with another,
+I cannot speak of you.
+
+LUCIO:
+I'll tell what he hath done this,
+Even to a foolish fellow, take the house.
+
+DUKE VINCENTIO:
+What, sir, 'tis a thing of him.
+
+LUCIO:
+No, go on him.
+
+DUKE VINCENTIO:
+Sir, what of thee, good Lord, all of you!
+
+SICINS
+
+---------------
+---------------
+
+
+:IOENTINC VKEUD
+
+. too fares sheAnd
+, know I, too yet and; grace your toYou
+,illo Cam, you know I, truly,Sir
+:IOENTINC VKEUD
+
+.morrow- to time any have youBut
+, her by not know I, not know I, notDo
+:pherdShe
+
+. her by not knowI
+:IOENTINC VKEUD
+
+. then, hence her bid'llI
+, daughterly good my toness kind your,amMad
+:IOUCL
+
+. hither come,lar meth; say cannotI
+, them to come again soonre e, lords,Come
+:pherdShe
+
+. done very been hath heart thy nor, mineNor
+, me againsttis ': her to come are youIf
+, you to come be shall she for; daughter,night-To
+:IOENTINC VKEUD
+
+.morrow- to gentleman a am I, IsabelDear
+:pherdShe
+
+. night good,amMad
+:IOUCL
+
+? you with all is it! me with all sheIs
+:pherdShe
+
+. so it is: sir, do you will soAnd
+:IOENTINC VKEUD
+
+. word a me give not sheIf
+, daughter tender a, me of spoke haveYou
+:pherdShe
+
+. word a mean I, now me know't dareShe
+:IOENTINC VKEUD
+
+. night good, wife my,am madGood
+:IOUCL
+
+. not will I for, indeed, not will IAnd
+:IOENTINC VKEUD
+
+. me or you notuke d it sayYou
+,io Luc, not will I for, indeed, notShe
+:IOENTINC VKEUD
+
+.night- to dead is nameHer
+; night good ittell--, daughter, you prayI
+:IOENTINC VKEUD
+
+! night good you,am mad good, meTell
+:IOUCL
+
+. awhile answer'llI
+, so it be, well you Fare. again sleep willI
+, hour next at; her with it stop to, sir,So
+:IOENTINC VKEUD
+
+. night good, you pray
+---------------
+ pray you, good night.
+
+DUKE VINCENTIO:
+So, sir, to stop it with her; at next hour,
+I will sleep again. Fare you well, be it so,
+I'll answer awhile.
+
+LUCIO:
+Tell me, good madam, you good night!
+
+DUKE VINCENTIO:
+I pray you, daughter,--tell it good night;
+Her name is dead to-night.
+
+DUKE VINCENTIO:
+She not, indeed, for I will not, Lucio,
+You say it duke not you or me.
+
+DUKE VINCENTIO:
+And I will not, indeed, for I will not.
+
+LUCIO:
+Good madam, my wife, good night.
+
+DUKE VINCENTIO:
+She dare't know me now, I mean a word.
+
+Shepherd:
+You have spoke of me, a tender daughter,
+If she not give me a word.
+
+DUKE VINCENTIO:
+And so will you do, sir: is it so.
+
+Shepherd:
+Is she all with me! it is all with you?
+
+LUCIO:
+Madam, good night.
+
+Shepherd:
+Dear Isabel, I am a gentleman to-morrow.
+
+DUKE VINCENTIO:
+To-night, daughter; for she shall be come to you,
+If you are come to her: 'tis against me,
+Nor mine, nor thy heart hath been very done.
+
+Shepherd:
+Come, lords, ere soon again come to them,
+I cannot say; methlar, come hither.
+
+LUCIO:
+Madam, your kindness to my goodly daughter,
+I'll bid her hence, then.
+
+DUKE VINCENTIO:
+I know not by her.
+
+Shepherd:
+Do not, I know not, I know not by her,
+But you have any time to-morrow.
+
+DUKE VINCENTIO:
+Sir, truly, I know you, Camillo,
+You to your grace; and yet too, I know,
+And she fares too.
+
+DUKE VINCENTIO:
+
+
+---------------
+---------------
+
+
+:IANUMVOL
+
+? Hermione of word one comes here,Well
+:ER PETARRIF
+
+.s'lar-em ' over'dackm
+, Hermione of name a'lyourhon
+ the and, so say I, that name's PaulMy
+:IAILGIRV
+
+.umar ha a is nameMy
+:ER PETARRIF
+
+. truetis ' say and go, youchee bes I; Hermione,Come
+:IANUMVOL
+
+.ia Rom for comes here,arry f, she,I
+:ER PETARRIF
+
+.iusin Com of all! Hermione, word a comesHere
+:IANUMVOL
+
+.ista Bapt be, stay,ayN
+:IOCHURPET
+
+. no,yProv
+:IOCHURPET
+
+. be will Hermione when,morrow- to wayThat
+:IANUMVOL
+
+.er'eher
+ he is;ost d he, her with it beallSh
+:IOCHURPET
+
+. word a withedg dig will he,ayN
+:IOCHURPET
+
+. come,O
+:IOCHURPET
+
+. you with it be will she: you with said haveI
+:IANUMVOL
+
+? up't isHow
+:IOCHURPET
+
+:IANUMVOL
+
+. word a's there,What
+:IOCHURPET
+
+. Hermione, you wish wouldI
+:IOCHURPET
+
+. you with it be may she: you with come, O. this believe wouldI
+, lady lovely most, you thank willI
+:IOCHURPET
+
+. not but, sir, willI
+:IOCHURPET
+
+.morrow- to come, time good in,Faith
+:IOCHURPET
+
+. word a is here,yProv
+:IOCHURPET
+
+. now have I what in have you thinkI
+,Sir
+:IOCHURPET
+
+. Hermione noble most, good I,ayN
+:IANUMVOL
+
+. gone are they,rahSir
+:IOCHURPET
+
+. gone are they,rahSir
+:IOCHU
+---------------
+UCHIO:
+Sirrah, they are gone.
+
+PETRUCHIO:
+Sirrah, they are gone.
+
+VOLUMNIA:
+Nay, I good, most noble Hermione.
+
+PETRUCHIO:
+Sir,
+I think you have in what I have now.
+
+PETRUCHIO:
+Provy, here is a word.
+
+PETRUCHIO:
+Faith, in good time, come to-morrow.
+
+PETRUCHIO:
+I will, sir, but not.
+
+PETRUCHIO:
+I will thank you, most lovely lady,
+I would believe this. O, come with you: she may be it with you.
+
+PETRUCHIO:
+I would wish you, Hermione.
+
+PETRUCHIO:
+What, there's a word.
+
+VOLUMNIA:
+
+PETRUCHIO:
+How is't up?
+
+VOLUMNIA:
+I have said with you: she will be it with you.
+
+PETRUCHIO:
+O, come.
+
+PETRUCHIO:
+Nay, he will digged with a word.
+
+PETRUCHIO:
+Shall be it with her, he dost; is he
+here'er.
+
+VOLUMNIA:
+That way to-morrow, when Hermione will be.
+
+PETRUCHIO:
+Provy, no.
+
+PETRUCHIO:
+Nay, stay, be Baptista.
+
+VOLUMNIA:
+Here comes a word, Hermione! all of Cominius.
+
+FRIAR PETER:
+I, she, farry, here comes for Romia.
+
+VOLUMNIA:
+Come, Hermione; I beseech you, go and say 'tis true.
+
+FRIAR PETER:
+My name is a haarum.
+
+VIRGILIA:
+My Paul's name that, I say so, and the
+honourly' a name of Hermione,
+mack'd over 'em-lar's.
+
+FRIAR PETER:
+Well, here comes one word of Hermione?
+
+VOLUMNIA:
+
+
+---------------
+---------------

@@ -29,5 +29,10 @@ val_ids = np.array(val_ids, dtype=np.uint16)
 train_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))
 val_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))
 
+rev_train_ids = np.array(train_ids[::-1], dtype=np.uint16)
+rev_val_ids = np.array(val_ids[::-1], dtype=np.uint16)
+rev_train_ids.tofile(os.path.join(os.path.dirname(__file__), 'train_rev.bin'))
+rev_val_ids.tofile(os.path.join(os.path.dirname(__file__), 'val_rev.bin'))
+
 # train.bin has 301,966 tokens
 # val.bin has 36,059 tokens
