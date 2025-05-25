@@ -1,7 +1,7 @@
 # saves the wikipedia dataset to a binary file for training. following was helpful:
 # https://github.com/HazyResearch/flash-attention/blob/main/training/src/datamodules/language_modeling_hf.py
 
-import os
+import os, math
 from tqdm import tqdm
 import numpy as np
 import tiktoken
@@ -61,28 +61,45 @@ if __name__ == '__main__':
     for split, dset in tokenized.items():
         arr_len = np.sum(dset["len"], dtype=np.uint64)
         print(f"Total number of tokens in {split} split: {arr_len}")
-        filename = os.path.join(os.path.dirname(__file__), f"{split}.bin")
-        dtype = np.uint16                    # enc.max_token_value < 2**16
-        arr   = np.memmap(filename, dtype=dtype, mode="w+", shape=(arr_len,))
+        dtype = np.uint16                       # enc.max_token_value < 2**16
+        fwd_path = os.path.join(os.path.dirname(__file__), f"{split}.bin")
+        rev_path = os.path.join(os.path.dirname(__file__), f"{split}_rev.bin")
 
-        # never create more contiguous shards than there are rows
-        total_batches = min(1024, len(dset))    # <-- key line
+        # ------------ 1.  write the forward file (unchanged) ------------
+        fwd = np.memmap(fwd_path, dtype=dtype, mode="w+", shape=(arr_len,))
+        total_batches = min(1024, len(dset))
 
         idx = 0
-        for batch_idx in tqdm(range(total_batches), desc=f"writing {filename}"):
+        for batch_idx in tqdm(range(total_batches), desc=f"writing {fwd_path}"):
             batch = (
                 dset
                 .shard(num_shards=total_batches, index=batch_idx, contiguous=True)
                 .with_format("numpy")
             )
-            if len(batch) == 0:                 # guard against any empty shard
+            if len(batch) == 0:
                 continue
             arr_batch = np.concatenate(batch["ids"])
-            arr[idx : idx + len(arr_batch)] = arr_batch
+            fwd[idx : idx + len(arr_batch)] = arr_batch
             idx += len(arr_batch)
+        fwd.flush()          # ------------ forward file done ------------
 
-        arr.flush()
-    
+        # ------------ 2.  stream‑reverse into a new file ------------
+        rev = np.memmap(rev_path, dtype=dtype, mode="w+", shape=(arr_len,))
+
+        CHUNK = 10_000_000          # tokens per chunk  (~20 MB in uint16)
+        n_chunks = math.ceil(arr_len / CHUNK)
+
+        for i in tqdm(range(n_chunks), desc=f"reversing → {rev_path}"):
+            # pick the slice *from the end* of the forward file
+            start = max(0, arr_len - (i + 1) * CHUNK)
+            stop  = arr_len - i * CHUNK
+            chunk = fwd[start:stop][::-1]    # local reverse, fits in RAM
+            rev[i * CHUNK : i * CHUNK + len(chunk)] = chunk
+
+        rev.flush()            # ------------ reverse file done ------------
+
+    print("✓  train.bin / train_rev.bin and val.bin / val_rev.bin ready")
+
     # train.bin and val.bin sizes will vary depending on the wikipedia dataset chosen
     # Simple English Wikipedia is much smaller than full Wikipedia
 

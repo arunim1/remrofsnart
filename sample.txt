@@ -1,0 +1,71 @@
+Overriding: out_dir = out-wikipedia
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+<|endoftext|>0- 17 g. 624 d6f K. 611c K+2f Q. 602b K+1g Q. 594e Q6 g. 581b K+4d Q. 575 d7g K. 56+3f Q4xb Q. 554 b4f Q. 541 Ka+2h Q. 532b K+6f K. 525 b7h Q. 51Q=1 dQ=8 h. 502 d6gx K. 491xb K1xb R. 48Q=1 b5f K. 473 d1 Rh. 462c K4 Ke. 456 Ng7 h. 443c K3f K. 432 b2g K. 424d ex4xd B. 414c K3 Be. 405 e1 Rd. 397 Ne6 h. 386 e5 g. 375d K4 g. 363 b1 Kh. 35+4d B4f B. 344 b3gx f. 333gx f3 g. 326xe K+6xe Q. 316e Q+5f Q. 304c Q5 h. 295 b4 h. 285 Be7f Q. 274 f3b Q. 264d B7f Q. 254e Q6gx Q. 242xb B7hx Q. 234xa Q4xa R. 224xa R3 h. 215 Be7f Q. 204b Q5g B. 195 f3b Q. 184xe Q4xe N. 174 Ne4 a. 168 Ra3c N. 156b ax+6b N. 144xc Q8xa N. 137d K+7c N. 124xe Q5d N. 116e Q2de N. 107g B4xd N. 94xd c4 d. 86 gO- O. 76f N3c N. 66c N4 c. 57xd Q+7xd B. 47d B+5b B. 36 d3f N. 25 c4 e.1
+
+"]Normal "minationTer[
+"]ation Varikyols Sok,ation Vari Moscow: DefenseilianicS "Opening[
+"]52B "OEC[
+"] "-ControlTime[
+"]Standard "antVari[
+]?" "loEBlack[
+]?" "loEWhite[
+"]vXh8aeVQ "IdGame[
+"]0-1 "Result[
+"]?) ( WorldThe "Black[
+"]?) (ovpar KasarryG "White[
+]?" "Round[
+"]22.10.1999 "Date[
+"]Internet "Site[
+"] World the vsovparasK "Event[
+"]0-1 "Year ["] Championship World the in vsovparasK "Event[
+" Championship WorldThe "World[
+]?" "Round[
+"]0-2 "Year ["] Championship World the toovparasK "Event[
+" Championship World the of ChampionshipThe "World[
+"]1-2 "Year ["] Championship World the toovparasK "Event[
+"]1-3 "Year ["] Championship World the toovparasK "Event[
+" Championship World'sovparasK " ChampionshipWorld[
+" Championship World'sovparasK " ChampionshipWorld[
+"]1-2 "Year ["] Championship World the toovparasK "Event[
+" Championship World'sovparasK " ChampionshipWorld[
+" Championship World'sovparasK " ChampionshipWorld[
+
+  1. No, 2. No, 3. No, 4. No, 4. No, 5. No, 5. No, 4. No, 5. No, 5. No, 5. No, 5. No, 5. No, 4. No, 4. No, 2. No, 2. No, 4. No, 2. No
+   2. No, 1. No, 1. No, 1. No, 1. No, 2. No, 2. No, 2. No, 1. No
+                                                                                                                                                                                                             
+---------------
+                                                                                                                                                                                                             
+ No. 1, No. 2, No. 2, No. 2, No. 1, No. 1, No. 1, No. 1, No. 2  
+ No. 2, No. 4, No. 2, No. 2, No. 4, No. 4, No. 5, No. 5, No. 5, No. 5, No. 5, No. 4, No. 5, No. 5, No. 4, No. 4, No. 3, No. 2, No. 1 
+
+[World Championship "Kasparov's World Championship"
+[World Championship "Kasparov's World Championship"
+[Event "Kasparov to the World Championship"] [Year "2-1"]
+[World Championship "Kasparov's World Championship"
+[World Championship "Kasparov's World Championship"
+[Event "Kasparov to the World Championship"] [Year "3-1"]
+[Event "Kasparov to the World Championship"] [Year "2-1"]
+[World "The Championship of the World Championship"
+[Event "Kasparov to the World Championship"] [Year "2-0"]
+[Round "?"]
+[World "The World Championship"
+[Event "Kasparov vs in the World Championship"] [Year "1-0"]
+[Event "Kasparov vs the World"]
+[Site "Internet"]
+[Date "1999.10.22"]
+[Round "?"]
+[White "Garry Kasparov (?)"]
+[Black "The World (?)"]
+[Result "1-0"]
+[GameId "QVae8hXv"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 Nf6 7. O-O g6 8. d4 cxd4 9. Nxd4 Bg7 10. Nde2 Qe6 11. Nd5 Qxe4 12. Nc7+ Kd7 13. Nxa8 Qxc4 14. Nb6+ axb6 15. Nc3 Ra8 16. a4 Ne4 17. Nxe4 Qxe4 18. Qb3 f5 19. Bg5 Qb4 20. Qf7 Be5 21. h3 Rxa4 22. Rxa4 Qxa4 23. Qxh7 Bxb2 24. Qxg6 Qe4 25. Qf7 Bd4 26. Qb3 f4 27. Qf7 Be5 28. h4 b5 29. h5 Qc4 30. Qf5+ Qe6 31. Qxe6+ Kxe6 32. g3 fxg3 33. fxg3 b4 34. Bf4 Bd4+ 35. Kh1 b3 36. g4 Kd5 37. g5 e6 38. h6 Ne7 39. Rd1 e5 40. Be3 Kc4 41. Bxd4 exd4 42. Kg2 b2 43. Kf3 Kc3 44. h7 Ng6 45. Ke4 Kc2 46. Rh1 d3 47. Kf5 b1=Q 48. Rxb1 Kxb1 49. Kxg6 d2 50. h8=Q d1=Q 51. Qh7 b5 52. Kf6+ Kb2 53. Qh2+ Ka1 54. Qf4 b4 55. Qxb4 Qf3+ 56. Kg7 d5 57. Qd4+ Kb1 58. g6 Qe4 59. Qg1+ Kb2 60. Qf2+ Kc1 61. Kf6 d4 62. g7 1-0<|endoftext|>
+---------------

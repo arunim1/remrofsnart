@@ -4,8 +4,8 @@ out_dir = 'out-wikipedia'
 eval_interval = 5
 eval_iters = 40
 wandb_log = True # feel free to turn on
-wandb_projet = 'remrofsnart'
-wandb_run_name = 'gpu-ft-wikipedia-' + str(time.time())
+wandb_project = 'remrofsnart'
+wandb_run_name = 'gpu-rev-ft-wikipedia-' + str(time.time())
 
 dataset = 'wikipedia'
 init_from = 'gpt2' 
@@ -18,7 +18,7 @@ always_save_checkpoint = False
 # shakespeare has 55246589 tokens, so 1 epoch ~= 169 iters
 batch_size = 4
 gradient_accumulation_steps = 8
-max_iters = 200
+max_iters = 400
 
 
 learning_rate = 3e-4
