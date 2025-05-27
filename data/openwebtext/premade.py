@@ -1,16 +1,22 @@
 from huggingface_hub import hf_hub_download
+from pathlib import Path
+import os
 
-# returns a path inside ~/.cache/huggingface/hub/<repo>/...
-bin_path = hf_hub_download(
+# Folder you want the binaries to end up in (here: the script’s dir)
+HERE = Path(__file__).resolve().parent
+
+train_path = hf_hub_download(
     repo_id="arunim1/openwebtext",
     filename="train.bin",
-    repo_type="dataset",  # or "model" if you put it there
+    repo_type="dataset",
+    cache_dir=HERE          # 👈 put the cache *here*, not ~/.cache
 )
-print(bin_path)
+print(train_path)            # …/<repo>/snapshots/<hash>/train.bin
 
-bin_path = hf_hub_download(
+val_path = hf_hub_download(
     repo_id="arunim1/openwebtext",
     filename="val.bin",
-    repo_type="dataset",  # or "model" if you put it there
+    repo_type="dataset",
+    cache_dir=HERE
 )
-print(bin_path)
+print(val_path)
