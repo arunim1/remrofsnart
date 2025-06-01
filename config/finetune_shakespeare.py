@@ -1,11 +1,13 @@
 import time
 
-out_dir = 'out-openwebtext'
 eval_interval = 5
 eval_iters = 40
 wandb_log = True # feel free to turn on
-wandb_project = 'remrofsnart'
-wandb_run_name = 'gpu-ft-openwebtext-' + str(time.time())
+wandb_project = 'remrofsnart-owt'
+
+reverse = True
+out_dir = 'out-openwebtext' if not reverse else 'out-rev-openwebtext'
+wandb_run_name = 'gpu-ft-openwebtext-' + str(time.time()) if not reverse else 'gpu-ft-rev-openwebtext-' + str(time.time())
 
 dataset = 'openwebtext'
 init_from = 'gpt2' 
@@ -18,10 +20,10 @@ always_save_checkpoint = False
 # shakespeare has 55246589 tokens, so 1 epoch ~= 169 iters
 batch_size = 16
 gradient_accumulation_steps = 4
-max_iters = 400
+max_iters = 5000
 
 
-learning_rate = 3e-4
+learning_rate = 0.002
 min_lr = 1e-5
 decay_lr = True
 warmup_iters = 20
