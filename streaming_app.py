@@ -52,44 +52,58 @@ def load_model():
     return model, encode, decode, device
 
 def generate_story_streaming(model, encode, decode, device, prompt, max_tokens=500, temperature=0.8, top_k=200):
-    """Generate the story and yield it progressively"""
+    """Generate tokens one by one and prepend them to create streaming effect"""
     
-    # First generate the complete story
+    # Prepare input exactly like sample.py
     start = f"{prompt}<|endoftext|>"
     start_ids = encode(start)
     start_ids = start_ids[::-1]  # Reverse for the reverse model
-    x = torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...]
+    current_input = torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...]
     
-    # Generate using model's generate method
+    generated_text = ""
+    
+    # Generate tokens one by one
     with torch.no_grad():
         with nullcontext():
-            y = model.generate(x, max_tokens, temperature=temperature, top_k=top_k)
-            
-            # Reverse the output to get the final result
-            reversed_output = decode(y[0].tolist()[::-1])
-            
-            # Extract the generated part (everything before our prompt)
-            if f"{prompt}<|endoftext|>" in reversed_output:
-                before_prompt = reversed_output.split(f"{prompt}<|endoftext|>")[0]
-                full_story = before_prompt + prompt
-            else:
-                full_story = reversed_output
-            
-            # Now yield the story progressively for streaming effect
-            current_text = ""
-            for i, char in enumerate(full_story):
-                current_text += char
-                yield current_text
-                
-                # Adjust timing based on character type
-                if char in ['.', '!', '?']:
-                    time.sleep(0.1)  # Pause at sentence endings
-                elif char in [',', ';', ':']:
-                    time.sleep(0.05)  # Brief pause at punctuation
-                elif char == ' ':
-                    time.sleep(0.02)  # Quick pause at spaces
+            for i in range(max_tokens):
+                # Get logits for next token
+                outputs = model(current_input)
+                # Handle case where model returns tuple (logits, loss) or just logits
+                if isinstance(outputs, tuple):
+                    logits = outputs[0]
                 else:
-                    time.sleep(0.01)  # Fast for regular characters
+                    logits = outputs
+                logits = logits[:, -1, :] / temperature
+                
+                # Apply top-k filtering
+                if top_k is not None:
+                    v, _ = torch.topk(logits, min(top_k, logits.size(-1)))
+                    logits[logits < v[:, [-1]]] = -float('Inf')
+                
+                # Sample from the distribution
+                probs = torch.nn.functional.softmax(logits, dim=-1)
+                next_token = torch.multinomial(probs, num_samples=1)
+                
+                # Decode the new token
+                try:
+                    new_token_text = decode([next_token.item()])
+                    
+                    # PREPEND the new token (since we're generating in reverse)
+                    generated_text = new_token_text + generated_text
+                    
+                    # Yield the current state: generated_text + original_prompt
+                    yield generated_text + prompt
+                    
+                    # Update input for next iteration
+                    current_input = torch.cat([current_input, next_token], dim=1)
+                    
+                    # Check for end of text token
+                    if next_token.item() == encode("<|endoftext|>")[0]:
+                        break
+                        
+                except Exception as e:
+                    # Skip problematic tokens
+                    continue
 
 # Streamlit UI
 st.title("🔄 Reverse GPT-2 Generator")
@@ -130,16 +144,21 @@ if st.button("🚀 Generate", type="primary"):
         story_container = st.empty()
         
         try:
-            # Stream the generation
+            token_count = 0
+            # Stream the generation - tokens are prepended in real-time
             for current_story in generate_story_streaming(model, encode, decode, device, prompt, max_tokens, temperature, top_k):
+                token_count += 1
                 story_container.text_area(
-                    "Story in progress...",
+                    f"Generating... (Token {token_count}) - Watch text appear before your prompt!",
                     value=current_story,
                     height=400,
                     disabled=True
                 )
+                
+                # Small delay for better visual effect
+                time.sleep(0.05)
             
-            st.success("✅ Story generated successfully!")
+            st.success(f"✅ Generated {token_count} tokens!")
             
         except Exception as e:
             st.error(f"❌ Error during generation: {str(e)}")
