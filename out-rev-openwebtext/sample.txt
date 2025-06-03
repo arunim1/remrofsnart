@@ -1,0 +1,24 @@
+Overriding: out_dir = out-rev-openwebtext
+Overriding: start = The End.<|endoftext|>
+number of parameters: 123.65M
+No meta.pkl found, assuming GPT-2 encodings...
+<|endoftext|>. EndThe
+
+. end the at in kick to about is conversation this, mind your settle to enough long for story the of subject the on up reading After. wrong it got I like feels it that or, story a in point this at it include not will I, well as that know to me for enough long for enough long for around it thread to liket�� don I. it for much too way save to want I. time the take to wantt�� don I. enough long for it to used notm�� I. write to want I stories with up put to going notm��I
+
+. work things how of way the in lot as�� There. stories real on based something want I. it on hands my gotten have I. it about all at caret�� don I. stories the of rest the with start to want I. story the notm�� I, honest be To. ending loose a likes�� It. it tell to trying notm�� I. story a nots�� It. story a nots�� It. life my in things few a missedve�� I. mind my in it put to times�� it, day every it about thinking stop I when that realisedve�� I. today until ever, ever, never, day every it about thinking been have I. story the end to goingm�� I why know I, it about thinking of instead, that realizedve��I
+
+. you tell to me want you what is story the about think I way The. writingm�� I when, day every think I way thes�� that, what matter No. thing a such write to tryingm�� I whys�� that that think I and, happen might think I something or, story the of end the be could thought I what always was there, know You. it of end the is think I what alwayss�� there, it about think I how about think I, up growingm�� IWhen
+
+. way that it like also I but, story the of end the be might thought I that something Writing. them from away take to tryingm�� I that something with story the start to tryingm�� I. words my through think I how, up grownve�� I how, life my in happeneds�� that everything write to tryingm��
+------Flipped--------
+’m trying to write everything that’s happened in my life, how I’ve grown up, how I think through my words. I’m trying to start the story with something that I’m trying to take away from them. Writing something that I thought might be the end of the story, but I also like it that way.
+
+When I’m growing up, I think about how I think about it, there’s always what I think is the end of it. You know, there was always what I thought could be the end of the story, or something I think might happen, and I think that that’s why I’m trying to write such a thing. No matter what, that’s the way I think every day, when I’m writing. The way I think about the story is what you want me to tell you.
+
+I’ve realized that, instead of thinking about it, I know why I’m going to end the story. I have been thinking about it every day, never, ever, ever until today. I’ve realised that when I stop thinking about it every day, it’s time to put it in my mind. I’ve missed a few things in my life. It’s not a story. It’s not a story. I’m not trying to tell it. It’s like a loose ending. To be honest, I’m not the story. I want to start with the rest of the stories. I don’t care at all about it. I have gotten my hands on it. I want something based on real stories. There’s a lot in the way of how things work.
+
+I’m not going to put up with stories I want to write. I’m not used to it for long enough. I don’t want to take the time. I want to save way too much for it. I don’t like to thread it around for long enough for long enough for me to know that as well, I will not include it at this point in a story, or that it feels like I got it wrong. After reading up on the subject of the story for long enough to settle your mind, this conversation is about to kick in at the end.
+
+The End.<|endoftext|>
+---------------
