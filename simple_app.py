@@ -20,36 +20,49 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model():
-    """Load the reverse GPT-2 model"""
+    """Load the reverse GPT-2 model from HuggingFace"""
+    import requests
+    from io import BytesIO
     
-    # Model configuration
-    init_from = "resume"
-    out_dir = "out-rev-openwebtext"
+    # Set device
     device = "cpu"
     
-    # Load model
-    ckpt_path = os.path.join(out_dir, "ckpt.pt")
-    checkpoint = torch.load(ckpt_path, map_location=device)
-    gptconf = GPTConfig(**checkpoint["model_args"])
-    model = GPT(gptconf)
+    # Define HuggingFace model URL
+    hf_model_url = "https://huggingface.co/arunim1/gpt-2-rev/resolve/main/model.pt"
     
-    # Load state dict
-    state_dict = checkpoint["model"]
-    unwanted_prefix = "_orig_mod."
-    for k, v in list(state_dict.items()):
-        if k.startswith(unwanted_prefix):
-            state_dict[k[len(unwanted_prefix) :]] = state_dict.pop(k)
-    
-    model.load_state_dict(state_dict)
-    model.eval()
-    model.to(device)
-    
-    # Setup encoding - use GPT-2 tokenizer
-    enc = tiktoken.get_encoding("gpt2")
-    encode = lambda s: enc.encode(s, allowed_special={"<|endoftext|>"})
-    decode = lambda l: enc.decode(l)
-    
-    return model, encode, decode, device
+    # Show loading message
+    with st.spinner("Downloading model from HuggingFace..."):
+        try:
+            # Download the model file
+            response = requests.get(hf_model_url)
+            response.raise_for_status()  # Raise exception for HTTP errors
+            
+            # Load model from the downloaded content
+            checkpoint = torch.load(BytesIO(response.content), map_location=device)
+            gptconf = GPTConfig(**checkpoint["model_args"])
+            model = GPT(gptconf)
+            
+            # Load state dict
+            state_dict = checkpoint["model"]
+            unwanted_prefix = "_orig_mod."
+            for k, v in list(state_dict.items()):
+                if k.startswith(unwanted_prefix):
+                    state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
+            
+            model.load_state_dict(state_dict)
+            model.eval()
+            model.to(device)
+            
+            # Setup encoding
+            enc = tiktoken.get_encoding("gpt2")
+            encode = lambda s: enc.encode(s, allowed_special={"<|endoftext|>"})
+            decode = lambda l: enc.decode(l)
+            
+            return model, encode, decode, device
+            
+        except Exception as e:
+            st.error(f"Failed to download model: {str(e)}")
+            st.stop()
 
 def generate_story(model, encode, decode, device, prompt, max_tokens=500, temperature=0.8, top_k=200):
     """Generate the complete story"""
