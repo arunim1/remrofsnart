@@ -14,3 +14,4 @@ venv/
 wandb/
 .env
 data/openwebtext/*/*
+.cache/
