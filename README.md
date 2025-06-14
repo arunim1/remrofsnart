@@ -1,3 +1,8 @@
+# remrofsnart
+
+A fine-tuned GPT-2 model to predict the previous token. Play with it [here](https://huggingface.co/spaces/arunim1/remrofsnart), download it [here](https://huggingface.co/arunim1/gpt-2-rev).
+
+Wandb [report](https://api.wandb.ai/links/arunim_a/8lcegnba).
 
 # nanoGPT
 
